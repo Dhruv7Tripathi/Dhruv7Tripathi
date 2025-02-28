@@ -32,6 +32,7 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 </div>
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -58,7 +59,7 @@
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
+<div>
   <img src="https://github-profile-trophy.vercel.app/?username=dhruv7tripathi&theme=radical&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
