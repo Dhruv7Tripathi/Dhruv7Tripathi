@@ -1,9 +1,4 @@
 # Hi, I'm Dhruv <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-<div align="center">
-  <img src="[https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in](https://github-readme-stats.vercel.app/api/pin/?username=dhruvtripathi&repo=quizzer&theme=radical" alt="quizzer")" alt="Quote" />
-</div>
-
 ## 💫 About Me
 - 🚀 Full Stack Developer, Freelancer, and Tech Enthusiast with a passion for clean code
 - 🌱 Currently mastering **Data Structures & Algorithms**
@@ -46,30 +41,23 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruvtripathi&show_icons=true&theme=radical&count_private=true" alt="Dhruv's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhruv7tripathi&show_icons=true&theme=radical&count_private=true" alt="Dhruv's GitHub stats" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvtripathi&theme=radical" alt="Dhruv's GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvtripathi&theme=radical&layout=compact" alt="Top Languages" />
-</div>
-
 ## 🔗 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/dhruv-tripathi-9848792aa/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://discord.com">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="https://youtube.com/c/yourchannel">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://twitter.com/yourhandle">
+  <a href="https://twitter.com/dhruvTripathi">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
   </a>
 </div>
@@ -77,10 +65,10 @@
 ## 📌 Pinned Repositories
 
 <div align="center">
-  <a href="https://github.com/dhruvtripathi/quizzer">
+  <a href="https://github.com/dhruv7tripathi/quizzer">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruv7tripathi&repo=quizzer&theme=radical" alt="quizzer" />
   </a>
-  <a href="https://github.com/dhruvtripathi/codex">
+  <a href="https://github.com/dhruv7tripathi/codex">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruv7tripathi&repo=codex&theme=radical" alt="codex" />
   </a>
 </div>
@@ -103,7 +91,5 @@
 </div>
 
 <div align="center">
-  
-  **"Code is like humor. When you have to explain it, it's bad."** – Cory House
-  
+  **"Code is like humor. When you have to explain it, it's bad."** – Dhruv Tripiathi
 </div>
