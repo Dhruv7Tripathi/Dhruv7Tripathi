@@ -36,10 +36,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruv7tripathi&show_icons=true&theme=radical&count_private=true" alt="Dhruv's GitHub stats" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv7tripathi&theme=radical" alt="Dhruv's GitHub Streak" />
 </div>
 
@@ -66,5 +62,5 @@
 ---
 
 <div align="center">
-  "Code is like humor. When you have to explain it, it's bad." – Dhruv Tripiathi
+  "Code is like humor. When you have to explain it, it's bad"
 </div>
