@@ -3,7 +3,6 @@
 - 🚀 Full Stack Developer, Freelancer, and Tech Enthusiast with a passion for clean code
 - 🌱 Currently mastering **Data Structures & Algorithms**
 - 🔭 Working on personal projects to strengthen my portfolio
-- 🎯 Aiming to contribute to open source through **GSoC 2025**
 - 💪 When not coding, you'll find me powerlifting at the gym
 - 🎮 Casual gamer who believes in the power of taking breaks
 
@@ -16,14 +15,11 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  
-### Frontend
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -45,7 +41,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvtripathi&theme=radical" alt="Dhruv's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv7tripathi&theme=radical" alt="Dhruv's GitHub Streak" />
 </div>
 
 ## 🔗 Connect With Me
@@ -62,17 +58,6 @@
   </a>
 </div>
 
-## 📌 Pinned Repositories
-
-<div align="center">
-  <a href="https://github.com/dhruv7tripathi/quizzer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruv7tripathi&repo=quizzer&theme=radical" alt="quizzer" />
-  </a>
-  <a href="https://github.com/dhruv7tripathi/codex">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruv7tripathi&repo=codex&theme=radical" alt="codex" />
-  </a>
-</div>
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -80,15 +65,6 @@
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=dhruvtripathi.dhruvtripathi" alt="visitors" />
-  <img src="https://img.shields.io/github/followers/dhruvtripathi?label=Followers&style=social" alt="GitHub followers" />
-</div>
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
-</div>
 
 <div align="center">
   **"Code is like humor. When you have to explain it, it's bad."** – Dhruv Tripiathi
