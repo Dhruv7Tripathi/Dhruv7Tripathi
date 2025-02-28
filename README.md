@@ -45,7 +45,7 @@
 
 ## 🔗 Connect With Me
 
-<div align="center">
+<div>
   <a href="https://www.linkedin.com/in/dhruv-tripathi-9848792aa/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -59,12 +59,12 @@
 
 ## 🏆 GitHub Trophies
 
-<div>
+<div align ="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dhruv7tripathi&theme=radical&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 ---
 
 <div align="center">
-  **"Code is like humor. When you have to explain it, it's bad."** – Dhruv Tripiathi
+  "Code is like humor. When you have to explain it, it's bad." – Dhruv Tripiathi
 </div>
