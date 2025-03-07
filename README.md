@@ -33,11 +33,6 @@
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=dhruv7tripathi&theme=radical" alt="Dhruv's GitHub Streak" />
-</div>
 
 ## 🔗 Connect With Me
 
