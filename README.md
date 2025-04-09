@@ -48,12 +48,6 @@
   </a>
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align ="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhruv7tripathi&theme=radical&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
 ---
 
 <div align="center">
