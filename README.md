@@ -1,10 +1,5 @@
 # Hi, I'm Dhruv <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-
-### 🕒 Local Time
-![Local Time](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Time&query=formatted&url=http://worldtimeapi.org/api/timezone/Asia/Kolkata)
-
-
 ## 💫 About Me
 - 🚀 Full Stack Developer, Freelancer, and Tech Enthusiast with a passion for clean code
 - 🌱 Currently mastering **Data Structures & Algorithms**
