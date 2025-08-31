@@ -1,6 +1,9 @@
 # Hi, I'm Dhruv <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-### 🕒 Current Local Time in Mathura
-![Local Time](https://github-readme-time.vercel.app/api?location=Mathura,%20India)
+
+
+### 🕒 Local Time
+![Local Time](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Time&query=formatted&url=http://worldtimeapi.org/api/timezone/Asia/Kolkata)
+
 
 ## 💫 About Me
 - 🚀 Full Stack Developer, Freelancer, and Tech Enthusiast with a passion for clean code
